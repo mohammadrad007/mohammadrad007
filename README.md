@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/14ac7133ece5322bf52e03c1d54a3fea60600436318cfd651e74c5d297af1fa6/68747470733a2f2f73746f726d6f74696f6e2e696f2f626c6f672f636f6e74656e742f696d616765732f323031382f31322f646576656c6f7065722e676966" align="center" style="width: 100%" />
-</div>  
-
+<img src="https://giphy.com/embed/l0HlTy9x8FZo0XO1i" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-hot-fire-l0HlTy9x8FZo0XO1i" align="center" style="width: 100%" />
+</div>
 
 ### <div align="center">Welcome To my Github Profile
 
@@ -54,8 +53,7 @@
 <a href="https://instagram.com/mrm_1994" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
