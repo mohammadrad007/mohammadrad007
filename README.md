@@ -54,11 +54,17 @@
 
 <br/>
 
-## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohammadrad007&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrad007&hide_border=true&layout=compact" align="left" />
+## Github Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadrad007&show_icons=true&count_private=true&hide_border=true&theme=monokai" align="center" />
+</div>  
+<div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadrad007&theme=monokai"/>
+ </div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrad007&hide_border=true&layout=compact&theme=monokai" align="center" />  
+</div>
 
 <br/>
 
